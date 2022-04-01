@@ -21,15 +21,15 @@ LIST = {}
 
 @app.on_message(filters.command(['start']))
 async def start(client, message):
- await message.reply_text(text =f"""Hello {message.from_user.first_name }image to pdf bot 
+ await message.reply_text(text =f"""Hello {message.from_user.first_name }
+ 
+ I AM A IMAGE TO PDF BOT I CAN CONVERT YOUR IMAGES TO PDF
 
-i can convert image to pdf
-
-This bot created by @mrlokaman""",reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
+This Bot Is Created by @Lucifer_xD""",reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/lntechnical") ],
-                 [InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]       ]        ) )
+                    InlineKeyboardButton("My Master 🇮🇳" ,url="https://t.me/Lucifer_xD") ],
+                 [InlineKeyboardButton("Thanks For Using Me", url="") ]       ]        ) )
 
 
 
