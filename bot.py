@@ -29,7 +29,7 @@ This Bot Is Created by @Lucifer_xD""",reply_to_message_id = message.message_id ,
             [
                 [
                     InlineKeyboardButton("My Master 🇮🇳" ,url="https://t.me/Lucifer_xD") ],
-                 [InlineKeyboardButton("Thanks For Using Me", url="") ]       ]        ) )
+                 [InlineKeyboardButton("Thanks For Using Me", url="https://t.me/Lucifer_xD") ]       ]        ) )
 
 
 
